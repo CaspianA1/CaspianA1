@@ -6,9 +6,7 @@ Currently building a radio show dashboard for the DJs over at *[WBOR 91.1 FM](ht
 
 I've spent a couple of years building a game as well, called *[Dungeon Dave](https://github.com/CaspianA1/dungeon_dave)*.
 \
-\
 Take a look! It's written fully in C and uses OpenGL for rendering, with SDL2 for window management.
-\
 \
 This project is slightly on pause at the moment (for the sake of the dashboard), but I expect to return to it in the future.
 
