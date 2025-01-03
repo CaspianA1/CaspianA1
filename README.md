@@ -2,22 +2,11 @@ Current senior at Bowdoin College.
 Interested in computer graphics/game engine development, programming language design/implementation, and plenty more.
 \
 \
-Currently building a radio show dashboard for the DJs over at [WBOR 91.1 FM](https://github.com/WBOR-91-1-FM/).
+Currently building a radio show dashboard for the DJs over at [WBOR 91.1 FM](https://github.com/WBOR-91-1-FM/). Built with Rust and SDL2.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaspianA1&show_icons=true&count_private=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaspianA1&count_private=true&layout=compact&theme=tokyonight)
+I've spent a couple of years building a game as well, called [Dungeon Dave](https://github.com/CaspianA1/dungeon_dave).
+Take a look! It's written fully in C and uses OpenGL for rendering, with SDL2 for window management.
+This project is slightly on pause at the moment (for the sake of the dashboard), but I expect to return to it in the future.
 
-<!--
-**CaspianA1/CaspianA1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![here it is](https://user-images.githubusercontent.com/41955769/211393898-6750e749-dbda-4547-b651-a633f4665d5c.png)
+![and another screenshot](https://user-images.githubusercontent.com/41955769/211393863-fac34033-8377-4559-989e-6f2f726d44de.png)
