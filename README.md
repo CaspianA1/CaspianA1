@@ -2,8 +2,8 @@ Current senior at Bowdoin College.
 Interested in computer graphics/game engine development, programming language design/implementation, and plenty more.
 Currently building a radio show dashboard for the jockeys over at (WBOR 91.1 FM)[https://github.com/WBOR-91-1-FM/].
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide=stars)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaspianA1&show_icons=true&theme=tokyonight&hide=stars)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaspianA1&layout=compact&theme=radical)
 
 <!--
 **CaspianA1/CaspianA1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
