@@ -1,4 +1,6 @@
 Recent grad from Bowdoin College.
+\
+\
 Interested in computer graphics/game engine development, programming language design/implementation, and plenty more.
 \
 \
